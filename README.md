@@ -9,4 +9,5 @@ O código se encontra na pasta dotnet.
 Só consegui fazer a persistência usando o SQLite. Apesar de saber como fazer os outros dois formatos solicitados.
 Os outros itens foram implementados. 
 
-PS: Não foquei em layout. Então está com o padrão do mvc. 
+OBS-01: Não foquei em layout. Então está com o padrão do mvc. 
+OBS-02: O projeto foi desenvolvido em NET 6.
